@@ -14,7 +14,7 @@
 -> 여기서 나온 단어들을 trdg의 dict 폴더에 저장.
 
 ## (2) Image 생성
-
+ 
 -> word 1개 생성.txt로 trdg/run.py를 실행시켜 dict안의 단어 중 무작위로 선정하여 background(뒷배경 있는), blur_1(적은 blur), blur_2(강한 blur), basic(뒷배경 없음), distortion(왜곡) 에 글씨 이미지를 생성하고 저장. 이때 생성되는 labels.txt는 (093928,'안녕') 식으로 저장되어 있어 폴더 구분이 필요
 
 -> labels.txt를 (index,filename,text) 형식으로 만들어주는게 rename_train.py
