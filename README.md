@@ -46,6 +46,8 @@
 
   --distortion_199999.jpg
 
+
+
 -word2(약 110만장)
 
   --02234400.png
@@ -55,6 +57,8 @@
   ...
   
   --03342999.png
+
+
 
 -annotations
 
