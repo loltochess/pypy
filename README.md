@@ -37,19 +37,29 @@
 # 3. 최종 전처리 결과 
 
 -word1(100만장)
+
   --background_0.jpg
+
   --background_1.jpg
+
   ...
+
   --distortion_199999.jpg
 
 -word2(약 110만장)
+
   --02234400.png
+  
   --02234401.png
+  
   ...
+  
   --03342999.png
 
 -annotations
+
   --word1.txt
+  
   --word2.txt
 
 # 4.모델 학습
