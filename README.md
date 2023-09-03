@@ -36,7 +36,7 @@
 
 # 3. 최종 전처리 결과 
 
--word1(100만장)
+1. word1(100만장)
 
   --background_0.jpg
 
@@ -48,7 +48,7 @@
 
 
 
--word2(약 110만장)
+2. word2(약 110만장)
 
   --02234400.png
   
@@ -60,7 +60,7 @@
 
 
 
--annotations
+3. annotations
 
   --word1.txt
   
